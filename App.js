@@ -57,6 +57,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <TopBar />
+      {/* Using map for displaying users from fetchUsers function */}
       <View style={styles.swipes}>
         {users.length > 1 &&
           users.map(
