@@ -1,4 +1,4 @@
-# planes-challenge
+# Stunt-Double Finder
 Welcome to my planes-challenge swiper app
 This simple app display user photos, name and location of stunt doubles that can be used by film directors looking for stunt doubles.
 
